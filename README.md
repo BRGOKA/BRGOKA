@@ -1,5 +1,3 @@
-[Google](https://google.com) | [GitHub](https://github.com) | [StackOverflow](https://stackoverflow.com)
-
 # Hi 👋, I'm Brahim
 
 ### A passionate frontend developer, cybersecurity, AI Engineer and 3D Artist from Algeria
@@ -16,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/BRGOKA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BRGOKA" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brahim goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim goudjal" height="30" width="40" /></a>
-<a href="https://kaggle.com/brgokh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brgokh" height="30" width="40" /></a>
-<a href="https://codesandbox.io/brgoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brgoka" height="30" width="40" /></a>
-<a href="https://fb.com/brahim goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brahim goudjal" height="30" width="40" /></a>
+<a href="https://github.com/BRGOKA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BRGOKA" height="30" width="40" /></a> • 
+<a href="https://linkedin.com/in/brahim goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim goudjal" height="30" width="40" /></a> • 
+<a href="https://kaggle.com/brgokh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brgokh" height="30" width="40" /></a> • 
+<a href="https://codesandbox.io/brgoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brgoka" height="30" width="40" /></a> • 
+<a href="https://fb.com/brahim goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brahim goudjal" height="30" width="40" /></a> • 
 <a href="https://instagram.com/brgo_kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brgo_kh" height="30" width="40" /></a>
 </p>
 

@@ -1,3 +1,5 @@
+[Google](https://google.com) | [GitHub](https://github.com) | [StackOverflow](https://stackoverflow.com)
+
 # Hi 👋, I'm Brahim
 
 ### A passionate frontend developer, cybersecurity, AI Engineer and 3D Artist from Algeria

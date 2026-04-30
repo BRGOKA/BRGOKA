@@ -13,8 +13,8 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a  style="display:inline-block" href="https://linkedin.com/in/brahim-goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim goudjal" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/brgoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brgoka" height="30" width="40" /></a>
+<a  style="display:inline-block" href="https://linkedin.com/in/brahim-goudjal" target="blank"><img style="display:inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim goudjal" height="30" width="40" /></a>
+<a style="display:inline-block" href="https://codesandbox.com/u/brgoka" target="blank"><img style="display:inline-block" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brgoka" height="30" width="40" /></a>
 <a href="https://kaggle.com/brgokh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brgokh" height="30" width="40" /></a>
 <a href="https://fb.com/brahim.goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brahim goudjal" height="30" width="40" /></a>
 <a href="https://instagram.com/brgo_kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brgo_kh" height="30" width="40" /></a>

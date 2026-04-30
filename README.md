@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Brahim</h1>
 <h3 align="center">A passionate Frontend Developer, Cybersecurity Enthusiast, AI Engineer, and 3D Artist from Algeria</h3>
 
-<p align="left">
+
 - 🔭 I’m currently working on **FL Board**
 - 🌱 I’m currently mastering **Fullstack Web Development** (Next.js via Jonas Schmedtmann's course)
 - 💬 Ask me about **React, JS, AI, 3D Modeling, Game Dev, and Cybersecurity**
 - 📫 How to reach me: **brahim.goudjal1@gmail.com**
 - ⚡ Fun fact: **ChatGPT thinks I'm funny, and I collect project ideas like Pokémon cards** 🃏
-</p>
+
 
 ---
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/brahim-goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim goudjal" height="30" width="40" /></a>
+<a  style="display:inline-block" href="https://linkedin.com/in/brahim-goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim goudjal" height="30" width="40" /></a>
 <a href="https://codesandbox.com/u/brgoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brgoka" height="30" width="40" /></a>
 <a href="https://kaggle.com/brgokh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brgokh" height="30" width="40" /></a>
 <a href="https://fb.com/brahim.goudjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brahim goudjal" height="30" width="40" /></a>

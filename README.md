@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on FL Board, free lancer's dashboard<br>🌱 I’m currently learning Fullstack webdev and currently learning Next.JS with jonas schmedtmann course 10/10 hands-on-project course<br>💬 Ask me about React, JS, AI, 3D Modling, game dev, cybersecurity<br>📫 How to reach me brahim.goudjal1@gmail.com<br>⚡ Fun fact ChatGpt thinks im funny, and collecting project ideas like pokémon cards😀
+🔭 I’m currently working on FL Board, free lancer's dashboard<br>
+🌱 I’m currently learning Fullstack webde, Next.JS with jonas schmedtmann course 10/10 hands-on-project course<br>
+💬 Ask me about React, JS, AI, 3D Modling, game dev, cybersecurity<br>
+📫 How to reach me brahim.goudjal1@gmail.com<br>
+⚡ Fun fact ChatGpt thinks im funny, and collecting project ideas like pokémon cards😀
 
 
 ## 🌐 Socials:

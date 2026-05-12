@@ -1,10 +1,12 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 # 💫 About Me:
 🔭 I’m currently working on FL Board, free lancer's dashboard<br>
 🌱 I’m currently learning Next.JS with jonas schmedtmann course 10/10 hands-on-project course<br>
 💬 Ask me about React, JS, AI, 3D ART, game dev, cybersecurity<br>
 📫 How to reach me brahim.goudjal1@gmail.com<br>
 ⚡ Fun fact ChatGpt thinks im funny, and collecting project ideas like pokémon cards😀
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BRG0KH) • 
@@ -13,7 +15,6 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brahim.goudjal1@gmail.com)
 
 # 💻 Tech Stack:
-
 # 💻 WEB-DEV
 ## Front End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  • 
@@ -95,9 +96,5 @@
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=BRGOKA&theme=tokyonight&hide_border=false)<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
-[![](https://komarev.com/ghpvc/?username=BRGOKA&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=BRGOKA&icon=6&color=1)](https://visitcount.itsvg.in)

@@ -1,5 +1,4 @@
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[![](https://visitcount.itsvg.in/api?id=BRG&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🔭 I’m currently working on FL Board, free lancer's dashboard<br>
@@ -96,5 +95,6 @@
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=BRGOKA&theme=tokyonight&hide_border=false)<br/>
----
-[![](https://komarev.com/ghpvc/?username=BRGOKA&icon=6&color=1)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)

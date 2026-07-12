@@ -101,5 +101,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
-[![](https://visitcountpro.netlify.app/api?id=BRGOKA&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=BRGOKA&pretty=true)](https://visitcount.itsvg.in) <br>
 i know the visit count is low but ill get to the thousands one day

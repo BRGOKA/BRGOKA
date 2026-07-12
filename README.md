@@ -1,6 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=BRG&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-# 💫 About Me:
+<h1 align="center"> Hi 👋🏻, I'm Brahim call me BRG </br> 
+  
+# 📖 About Me:
 🔭 I’m currently working on FL Board, free lancer's dashboard<br>
 🌱 I’m currently learning Next.JS with jonas schmedtmann course 10/10 hands-on-project course<br>
 💬 Ask me about React, JS, AI, 3D ART, game dev, cybersecurity<br>

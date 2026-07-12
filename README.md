@@ -2,7 +2,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Brahim call me BRG </br> 
 
   
-[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=BRGOKA&pretty=true)](https://visitcount.itsvg.in)
 # 📖 About Me:
 🔭 I’m currently working on FL Board, free lancer's dashboard<br>
 🌱 I’m currently learning Next.JS with jonas schmedtmann course 10/10 hands-on-project course<br>

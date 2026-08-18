@@ -92,11 +92,11 @@
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=BRGOKA&theme=tokyonight&hide_border=false)<br/>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=BRGOKA&theme=tokyonight&hide_border=false)<br/>
 
 
 [![](https://visitcountpro.netlify.app/api?id=BRGOKA&pretty=true)](https://visitcount.itsvg.in) <br>

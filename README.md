@@ -2,7 +2,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Brahim call me BRG </br> 
 
 # 📖 About Me:
-🔭 I’m currently working on FL Board, free lancer's dashboard<br>
+🔭 I’m currently working on FL Board<br>
 🌱 and currently learning Next.JS with jonas schmedtmann course 10/10 hands-on-project course<br>
 💬 Ask me about React, JS, AI, 3D ART, game dev and cybersecurity<br>
 📫 How to reach me brahim.goudjal1@gmail.com<br>

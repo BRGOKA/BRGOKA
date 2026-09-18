@@ -45,8 +45,6 @@
 # 🧊 3D / Creativity
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) • 
 ![Unity](https://img.shields.io/badge/Unity-%23121011.svg?style=for-the-badge&logo=Unity&logoColor=white) • 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) • 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 🤖 AI/ML
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) • 
@@ -63,7 +61,6 @@
 
 # 👨‍🎓 TEC to Learn:
 ## Front End
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) • 
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) • 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) • 
 ![GSAP](https://img.shields.io/badge/GSAP-111F68?style=for-the-badge&logo=gsap&logoColor=white)
@@ -98,4 +95,4 @@
 
 
 [![](https://visitcountpro.netlify.app/api?id=BRGOKA&pretty=true)](https://visitcount.itsvg.in) <br>
-i know the visit count is low but ill get to the thousands one day.
+

@@ -3,7 +3,7 @@
 
 # 📖 About Me:
 🔭 I’m currently working on FL Board<br>
-🌱 and currently learning C# web API <br>
+🌱 and currently learning .NET web API <br>
 💬 Ask me about React, JS, AI, 3D ART, game dev and cybersecurity<br>
 📫 How to reach me brahim.goudjal1@gmail.com<br>
 ⚡ Fun fact ChatGpt thinks im funny, and collecting project ideas like pokémon cards😀

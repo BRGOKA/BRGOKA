@@ -48,9 +48,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 </details>
 
-# 🛢 DB
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>DB</strong></summary>
 <br>
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) • 
@@ -58,9 +57,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </details>
 
-# 🔧 Utils
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>🔧 Utils</strong></summary>
 <br>
   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) • 
@@ -70,18 +68,16 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 </details>
 
-# 🧊 3D / Creativity
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>🧊 3D / Creativity</strong></summary>
 <br>
   
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) • 
 ![Unity](https://img.shields.io/badge/Unity-%23121011.svg?style=for-the-badge&logo=Unity&logoColor=white) • 
 </details>
 
-# 🤖 AI/ML
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>🤖 AI/ML</strong></summary>
 <br>
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) • 
@@ -93,9 +89,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </details>
 
-## 🛎 Hosting
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>🛎 Hosting</strong></summary>
 <br>
   
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) • 
@@ -103,9 +98,8 @@
 </details>
 
 # 👨‍🎓 TEC to Learn:
-## Front End
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>Front End</strong></summary>
 <br>
   
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) • 
@@ -113,9 +107,8 @@
 ![GSAP](https://img.shields.io/badge/GSAP-111F68?style=for-the-badge&logo=gsap&logoColor=white)
 </details>
 
-## 👩‍💻 Back End
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>👩‍💻 Back End</strong></summary>
 <br>
   
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) • 
@@ -128,33 +121,29 @@
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 </details>
 
-## 🔧 Utils
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>🔧 Utils</strong></summary>
 <br>
   
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 </details>
 
-## 📱 Mobile
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>📱 Mobile</strong></summary>
 <br>
   
 ![Flutter](https://img.shields.io/badge/Flutter-%2320232a.svg?style=for-the-badge&logo=Flutter&logoColor=%2361DAFB) 
 </details>
 
-## 👩‍💻 Dev-ops
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>👩‍💻 Dev-ops</strong></summary>
 <br>
   
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 </details>
 
-## ☁ Cloud
 <details>
-<summary><strong>Back End</strong></summary>
+<summary><strong>☁ Cloud</strong></summary>
 <br>
   
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 

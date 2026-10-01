@@ -151,11 +151,13 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 </details>
 
+<div aligne="center">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=BRGOKA&theme=tokyonight&hide_border=false)<br/>
+</div>
 
 
 [![](https://visitcountpro.netlify.app/api?id=BRGOKA&pretty=true)](https://visitcount.itsvg.in) <br>

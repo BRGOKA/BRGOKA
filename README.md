@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=BRG&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-<div aligne="center">
+
 <h1 align="center"> Hi 👋🏻, I'm Brahim call me BRG </br> 
-</div>
+
 
 # 📖 About Me:
 🔭 I’m currently working on FL Board<br>
@@ -158,6 +158,7 @@
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=BRGOKA&theme=tokyonight&hide_border=false)<br/>
+
 </div>
 
 

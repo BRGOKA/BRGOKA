@@ -10,6 +10,7 @@
 📫 How to reach me brahim.goudjal1@gmail.com<br>
 ⚡ Fun fact ChatGpt thinks im funny, and collecting project ideas like pokémon cards😀
 
+# Launched my streaming platform check it out: [!Cine-Stream](https://brg-cine-stream.vercel.app) <br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/BRG0KH) • 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/brgo_kh)  • 
